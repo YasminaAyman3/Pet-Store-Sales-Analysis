@@ -28,7 +28,9 @@ This project analyzes pet store sales data to uncover key business insights, inc
 - Excel (Initial Cleaning & Processing)
 
 ## 📊 Dashboard
-![Screenshot 2025-03-25 003150](https://github.com/user-attachments/assets/a1c827a4-2ddc-427d-8184-54d0e1a57e04)
+
+![Screenshot 2025-03-25 003150](https://github.com/user-attachments/assets/996f19ab-fc73-4b6a-b79d-6ab910201acb)
+
 
 ## 🎯 Business Recommendations
 
